@@ -9,7 +9,6 @@ body{
 background: url(img.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-
 }
 
 .wrap{
@@ -17,8 +16,6 @@ width: 400px;
 background: darkgrey;
 padding:30px;
 margin: 0 auto;
-
-
 }
 
 h2{
@@ -35,6 +32,7 @@ color:#999;
 margin-bottom: 15px;
 margin-top: 10px;
 }
+
 input{
 width: 100%;
 padding: 10px;
@@ -42,15 +40,12 @@ border: 1px solid red;
 border-radius: 10px;
 }
 
-
-
-
-
 label{
 width: 100%;
 display: inline-block;
 margin: 0;
 }
+
 a{
 width: 100%;
 display: inline-block;

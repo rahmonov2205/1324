@@ -1,119 +1,105 @@
-@media (max-width: 1199.98px){
-    .header-title{
-        font-size: 45px;
-    }
-
-    .header-subtitle{
-        font-size: 22px;
-    }
-
-    .header-btn{
-        font-size: 12px;
-        padding: 10px 25px;
-    }
-
-    .work .work-wrap a{
-        margin-bottom: 35px;
-    }
-
-    .header-text{
-        width: 100%;
-    }
-}
-
-@media (max-width: 991.98px){
-    .justify-content-between{
-        justify-content: space-evenly !important;
-    }
-}
-
-@media (max-width: 767.98px){
-    .header .header-menu{
-        display: none;
-    }
-
-    .header-title{
-        font-size: 30px;
-    }
-
-    
-    .header-subtitle{
-        font-size: 15px;
-    }
-
-    .header{
-        padding-bottom: 10px;
-    }
-
-    .header .header.nav{
-        padding: 10px 0;
-    }
-
-    .services{
-        padding: 40px 0;
-    }
-
-    .work{
-        padding: 30px 0 40px;
-    }
-
-    .work .work-title{
+@media(max-width: 1700px){
+   
+    h2{
         font-size: 20px;
-    }
-    
-    .work .work-subtitle{
-        font-size: 14px;
-    }
+        color: red;
+        text-align: center;
+        margin-bottom: 10px;
+        
+        }
+        
+        p{
+        font-size: 30px;
+        color:#999;
+        margin-bottom: 15px;
+        margin-top: 10px;
+        }
+        
+        input{
+        width: 100%;
+        padding: 10px;
+        border: 1px solid red;
+        border-radius: 10px;
+        }
+        
+        label{
+        width: 100%;
+        font-size:30px;
+        display: inline-block;
+        margin: 0;
+        }
+        
 
     
-    .work .work-top{
-        padding-bottom: 20px;
-    }
 
-    .work .nav .nav-link{
-        font-size: 10px;
-        padding: 8px 12px;
-    }
-
-    .justify-content-between{
-        justify-content: space-evenly !important;
-    }
-
-    .footer-title{
-        font-size: 13px;
-        margin: 15px 0;
-    }
+    /* /////////////////////////////// */
 }
 
-@media (max-width: 575.98px){
-    .header-title{
-        font-size: 23px;
-    }
-
-    .header-subtitle{
-        font-size: 13px;
-    }
-
-    .services .services-title{
-        font-size: 14px;
-        margin: 15px 0 12px;
-    }
-
-    .services .services-text{
-        font-size: 10px;
-    }
-
-    .work .nav .nav-link{
-        font-size: 6px;
-        padding: 5px 12px;
-    }
-
-    .footer-contact{
-        flex-direction: column;
-    }
-
-    
-    .footer-contact__link{
+@media(max-width: 1180px){
+    h2{
+        font-size: 20px;
+        color: red;
+        text-align: center;
+        margin-bottom: 10px;
+        
+        }
+        
+        p{
+        font-size: 30px;
+        color:#999;
         margin-bottom: 15px;
-    }
+        margin-top: 10px;
+        }
+        
+        input{
+        width: 100%;
+        padding: 10px;
+        border: 1px solid red;
+        border-radius: 10px;
+        }
+        
+        label{
+        width: 100%;
+        font-size:30px;
+        display: inline-block;
+        margin: 0;
+        }
+        
+    
+}
+
+@media(max-width: 800px){
+    h2{
+        font-size: 20px;
+        color: red;
+        text-align: center;
+        margin-bottom: 10px;
+        
+        }
+        
+        p{
+        font-size: 30px;
+        color:#999;
+        margin-bottom: 15px;
+        margin-top: 10px;
+        }
+        
+        input{
+        width: 100%;
+        padding: 10px;
+        border: 1px solid red;
+        border-radius: 10px;
+        }
+        
+        label{
+        width: 100%;
+        font-size:30px;
+        display: inline-block;
+        margin: 0;
+        }
+        
+}
+
+@media(max-width: 600px){
+
 }
